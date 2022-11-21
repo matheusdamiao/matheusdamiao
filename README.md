@@ -1,19 +1,22 @@
 # Hi there 👋 I'm Matheus Damião
-### I'm a Brazilian Front-end Developer
+#### I'm a Brazilian Front-end Developer
 
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning TypeScript, TypeORM and
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact about me: 
+🔭 I’m currently working as a freelancer developer building Gatsby websites and using headless CMS to content management. 
+🌱 I’m currently learning TypeScript and diving into Database with TypeORM, 
+👯 I’m looking to collaborate on any project
+
+💬 Ask me about ...
+⚡ Fun fact about me: 
 
 <br>
 <br>
 <br>
 
+📫 How to reach me: 
+
+<br>
+<br>
 
 ## 💻Tecnologies & Tools 
 
