@@ -9,8 +9,6 @@
 ⚡ Fun fact about me: Before getting into code, I was a language teacher for about 10 years. My grad major was in Ancient Greek and I also hold a Master in Ancient Philosophy. 
 
 <br>
-<br>
-<br>
 
 📫 How to reach me: [personal website](https://matheusdamiao.netlify.app)
 
@@ -32,7 +30,7 @@
 ![image](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 <br>
-<br>
+
 
 ## ⭐Github Stats
 
