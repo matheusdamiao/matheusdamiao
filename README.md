@@ -6,8 +6,7 @@
 🌱 I’m currently learning TypeScript and diving into Database with TypeORM <br>
 👯 I’m looking to collaborate on any project <br>
 <br>
-💬 Ask me about ...
-⚡ Fun fact about me: 
+⚡ Fun fact about me: Before getting into code, I was a language teacher for about 10 years. My grad major was in Ancient Greek and I also hold a Master in Ancient Philosophy. 
 
 <br>
 <br>
