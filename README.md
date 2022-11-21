@@ -1,6 +1,5 @@
- Hi there 👋
- 
-I'm a Front-end Developer 
+# Hi there 👋
+## I'm a Front-end Developer 
 
 
 - 🔭 I’m currently working on 
