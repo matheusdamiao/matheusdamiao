@@ -2,10 +2,10 @@
 #### I'm a Brazilian Front-end Developer
 
 
-🔭 I’m currently working as a freelancer developer building Gatsby websites and using headless CMS to content management. 
-🌱 I’m currently learning TypeScript and diving into Database with TypeORM, 
-👯 I’m looking to collaborate on any project
-
+🔭 I’m currently working as a freelancer developer building Gatsby websites and using headless CMS to content management. <br>
+🌱 I’m currently learning TypeScript and diving into Database with TypeORM <br>
+👯 I’m looking to collaborate on any project <br>
+<br>
 💬 Ask me about ...
 ⚡ Fun fact about me: 
 
