@@ -31,6 +31,11 @@
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
+<br>
+<br>
+
+## ⭐Github Stats
+
 
 [![card](https://github-readme-stats.vercel.app/api?username=matheusdamiao&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
