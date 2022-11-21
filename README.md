@@ -3,8 +3,8 @@
 
 
 🔭 I’m currently working as a freelancer developer building Gatsby websites and using headless CMS to content management. <br>
-🌱 I’m currently learning TypeScript and diving into Database with TypeORM <br>
-👯 I’m looking to collaborate on any project <br>
+🌱 I’m learning TypeScript and diving into Database with TypeORM <br>
+ I’m looking to find my first job as a developer <br>
 <br>
 ⚡ Fun fact about me: Before getting into code, I was a language teacher for about 10 years. My grad major was in Ancient Greek and I also hold a Master in Ancient Philosophy. 
 
@@ -17,7 +17,7 @@
 <br>
 <br>
 
-## 💻Tecnologies & Tools 
+## 🛠️💻 Tecnologies & Tools 
 
 ![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
