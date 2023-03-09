@@ -6,7 +6,7 @@
 ✍️ I’m learning TypeScript and diving into Database with TypeORM <br>
 👨‍💻 I’m looking to find my first job as a developer <br>
 <br>
-⚡ Fun fact about me: Before getting into code, I was a language teacher for about 10 years. My grad major was in Ancient Greek and I also hold a Master in Ancient Philosophy. 
+⚡ Fun fact about me: Before getting into code, I was a language teacher for about 10 years. My major is Ancient Greek Language and I also hold a Master in Ancient Philosophy. 
 
 <br>
 
