@@ -3,14 +3,14 @@
 
 
 🔭 I’m currently working as a freelancer developer building Gatsby websites and using headless CMS to content management. <br>
-✍️ I’m learning TypeScript and diving into Database with TypeORM <br>
+✍️ I’m learning TypeScript and diving into Relational Databases (SQLite, PostgreSQL, MySQL) with TypeORM <br>
 👨‍💻 I’m looking to find my first job as a developer <br>
 <br>
 ⚡ Fun fact about me: Before getting into code, I was a language teacher for about 10 years. My major is Ancient Greek Language and I also hold a Master in Ancient Philosophy. 
 
 <br>
 
-📫 How to reach me: [personal website](https://matheusdamiao.netlify.app)
+📫 How to reach me: [personal website](https://matheusdamiao.com.br)
 
 <br>
 <br>
