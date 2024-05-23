@@ -2,9 +2,7 @@
 #### I'm a Brazilian Front-end Developer
 
 
-🔭 I’m currently working as a freelancer developer building Gatsby websites and using headless CMS to content management. <br>
-✍️ I’m learning TypeScript and diving into Relational Databases (SQLite, PostgreSQL, MySQL) with TypeORM <br>
-👨‍💻 I’m looking to find my first job as a developer <br>
+🔭 I'm currently working as a freelancer web developer, building webs apps for companies and entrepreneurs. <br>
 <br>
 ⚡ Fun fact about me: Before getting into code, I was a language teacher for about 10 years. My major is Ancient Greek Language and I also hold a Master in Ancient Philosophy. 
 
