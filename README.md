@@ -2,7 +2,7 @@
 #### I'm a Brazilian Front-end Developer
 
 
-🔭 I'm currently working as a freelancer web developer, building webs apps for companies and entrepreneurs. <br>
+🔭 I'm currently working as front-end developer, building webs apps for companies and entrepreneurs. <br>
 <br>
 ⚡ Fun fact about me: Before getting into code, I was a language teacher for about 10 years. My major is Ancient Greek Language and I also hold a Master in Ancient Philosophy. 
 
